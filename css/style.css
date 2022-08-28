@@ -265,7 +265,6 @@ body {
 
 .footer-container {
 	flex-direction: column;
-	margin-left: 215px;
 }
 .footer-link-li {
 	list-style: none;
